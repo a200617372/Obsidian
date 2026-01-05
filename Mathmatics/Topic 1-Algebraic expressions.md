@@ -106,7 +106,7 @@ mindmap-plugin: basic
 ##### $\frac{7}{8+2\sqrt3}=\frac{7}{8+2\sqrt3} \times \frac{8-2\sqrt3}{8-2\sqrt3}=\frac{7(8-2\sqrt3)}{52}=\frac{7(4-\sqrt3)}{26}=\frac{28-7\sqrt3}{26}$
 ##### $\frac{2}{\sqrt2-5\sqrt3}=\frac{2}{\sqrt2-5\sqrt3} \times \frac{\sqrt2+5\sqrt3}{\sqrt2+5\sqrt3}=\frac{2(\sqrt2+5\sqrt3)}{-73}=-\frac{2\sqrt2+10\sqrt3}{73}$
 ##### $(\sqrt6-\sqrt2)^2-(\sqrt6+\sqrt2)^2=(2\sqrt6)(-2\sqrt2)=-8\sqrt3$
-#### $(\sqrt5+2)^3=5\sqrt5+30+12\sqrt5+8=38+17\sqrt5$
+##### $(\sqrt5+2)^3=5\sqrt5+30+12\sqrt5+8=38+17\sqrt5$
 
 ##### $(\sqrt5-2\sqrt7)^2-(\sqrt5+\sqrt7)^2=(2\sqrt5-\sqrt7)(-3\sqrt7)=21-6\sqrt35$
 ##### $(2\sqrt10-3\sqrt2)(2\sqrt10+3\sqrt2)=(2\sqrt10)^2-(3\sqrt2)^2=40-18=22$
