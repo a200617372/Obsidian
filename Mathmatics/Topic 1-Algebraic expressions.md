@@ -112,7 +112,7 @@ mindmap-plugin: basic
 ##### $(2\sqrt10-3\sqrt2)(2\sqrt10+3\sqrt2)=(2\sqrt10)^2-(3\sqrt2)^2=40-18=22$
 ##### $(\sqrt5+\sqrt2)^3=5\sqrt5+2\sqrt2+15\sqrt2+6\sqrt5=11\sqrt5+17\sqrt2$
 ##### $\frac{a-b}{\sqrt a+\sqrt b}=\frac {(\sqrt a+\sqrt b)(\sqrt a-\sqrt b)}{\sqrt a+\sqrt b}=\sqrt a-\sqrt b$
-##### $\frac{a-b}{a\sqrt b+b\sqrt a}=\frac{(\sqrt a+\sqrt b)(\sqrt a-\sqrt b)}{\sqrt a \sqrt b (\sqrt a -\sqrt b)}=\frac{\sqrt a+ \sqrt b}{\sqrt a\sqrt b}=\frac{a\sqrt b+b\sqrt a}{ab}$
+##### $\frac{a-b}{a\sqrt b-b\sqrt a}=\frac{(\sqrt a+\sqrt b)(\sqrt a-\sqrt b)}{\sqrt a \sqrt b (\sqrt a -\sqrt b)}=\frac{\sqrt a+ \sqrt b}{\sqrt a\sqrt b}=\frac{a\sqrt b+b\sqrt a}{ab}$
 #### 1.3 Practice: Expanding and simplifying with identities
 
 #### 1.4 More practice on expanding and Identities
