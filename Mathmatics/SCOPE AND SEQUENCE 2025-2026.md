@@ -1,0 +1,111 @@
+---
+mindmap-plugin: basic
+share_link: https://share.note.sx/t0rhowfp#bpqfUkhnqugpfzwJ/+5+m79C2S+1WrSIRnAYJ4Q2foQ
+share_updated: 2026-01-05T00:42:18+02:00
+---
+
+# Midterm Test
+
+## Topic 1
+- Proofs of identities & their applications
+	- Perfect square
+		- $(𝑎±𝑏)^2=a^2±2ab+b^2$
+		- $(𝑎±𝑏±𝑐)^2$
+			- $(a+b+c)^2=a^2+b^2+c^2+2ab+2bc+2ac$
+			- $(a+b-c)^2=a^2+b^2+c^2+2ab-2bc-2ac$
+			- $(a-b+c)^2=a^2+b^2+c^2-2ab-2bc+2ac$
+			- $(a-b-c)^2=a^2+b^2+c^2-2ab+2bc-2ac$
+	- Difference of squares
+		- $𝑎^2−𝑏^2 = (𝑎 − 𝑏)(𝑎 + 𝑏)$
+	- Difference of cubes
+		- $a^3-b^3=(a-b)(a^2+ab+b^2)$
+	- Sum of cubes
+		- $a^3+b^3=(a+b)(a^2+ab+b^2)$
+	- Emphasis on using the identities for expanding brackets and proving equities
+		- Concept of Direct Proof LHS=RHS​
+		- Concept of Proof if A=B and B=C then A=C in proving identities by simplifying both sides to B​
+		- Application of identities as  Difference of squares in radicals (conjugate – rationalizing the denominator)​
+		- Use of identities to calculate numerical expressions
+		- Problems involving identities
+- Combinations of factoring methods
+	- Sum/product of roots
+	- Factoring by grouping
+	- Splitting the middle term (Include cubic and quartic polynomials)
+	- Using identities including sum and product of roots
+- Simplifying rational expressions
+	- Use of identities to  factor numerator and denominator
+	- Concept of an expression being defined is also addressed by stating appropriate restrictions
+- Adding and subtracting rational expressions
+	- Creating common denominator with expressions
+	- Being able to distribute negative over numerator in the case of binomial and binomial product
+- Multiplying and dividing rational expressions
+	- Simplifying complex fractions
+
+## Topic 2
+- 2.1
+	- Quadratic Equations
+	- Equations of higher degree and solving by factoring
+	- Word Problems involving quadratic equations
+	- Skills
+		- Equations including identity expansion and fractions
+		- Equations with no, one or two solutions
+		- Higher degree equations solving by factoring
+		- Higher degree equations and the method of substitution
+		- Solving equations of polynomials of higher degree using factoring techniques - connection with 1.5
+	- Types
+		- With fractional coefficients and fractions
+		- Using the square root property
+		- Using factoring techniques for equations that lead to quadratic and the zero product property
+		- Using the discriminant - Parametric Quadratic equations leading to equation (no inequality)
+		- Hidden quadratic equations and the method of u-substitution
+		- Word problems leading to quadratic equations
+- 2.2
+	- Systems of two equations linear and non-linear with two unknowns
+	- Systems that can be reduced to linear
+	- Skills
+		- Using the method of substitution and using parameters to reduce the system to linear
+		- Linear and nonlinear systems obtained from exponential equations
+		- Combination of problems involving non-linear systems
+		- Connection with Unit 3 solving a systems graphing
+		- Word problems with systems of equations
+
+## Topic 3
+- Equation of a line, parallel and perpendicular lines
+	- Skills
+		- Point-slope form
+		- Transforming equations between forms
+		- Emphasis is placed on lines that are parallel and perpendicular and problem solving involving these
+		- Finding equation of perpendicular bisector of a given line segment
+		- Find the equation of a median of a triangle
+		- Find the equation of the altitude
+	- Performance
+		- Find the equation of the perpendicular bisector of a segment with two points
+		- Prove that a quadrilateral is a parallelogram in the coordinate plane
+		- Collinear points including​ finding parameter values so that three given points are collinear
+		- Find the equation of median, altitude, angle bisector or perpendicular bisector in a triangle
+- Lines in the coordinate plane
+	- Skills
+		- Find the equation of a line in the coordinate plane , intersection with axes
+		- Find the area of a triangle formed in the coordinate plane
+	- Performance
+		- Graph parallel and perpendicular lines in the coordinate plane
+		- Parametric form of a line and problem solving in the coordinate plane
+		- Show that a quadrilateral is a parallelogram
+		- Prove a triangle is a right triangle in the coordinate plane
+		- Find distances and areas of triangle in the coordinate plane
+- Distance Formula and Midpoint formula
+	- Skills
+		- Connection with Pythagorean Theorem - equation of circle Proof
+	- Performance
+		- Distance formula proof – connection with Pythagorean theorem
+		- Find the coordinates of an endpoint given the midpoint of a segment and the other endpoint
+		- Find the equation of a perpendicular bisector or median of a triangle
+- The graph of a quadratic function
+	- Skills
+		- Sketching and accurately drawing a quadratic function using key points on the graph (i.e. Roots, axis of symmetry, vertex etc.)
+		- Find the equation of a quadratic function from its graph
+	- Performance
+		- Concept of a function introduced. Notation
+		- Find the key points of a quadratic function in standard form, vertex form – factor form Connection with Unit 1
+		- Completing the square is not included
+		- Find the equation of a quadratic given the graph of a parabola
