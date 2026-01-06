@@ -554,7 +554,16 @@ $$
 =&a^3+b^3+c^3+3(a+b+c)(ab+bc+ca)-3abc \\
 &\because a+b+c=0 \\
 &\therefore 0=a^3+b^3+c^3-3abc \\
-&a^3+b^3+c^3=3abc
+&a^3+b^3+c^3=3abc \\
+\\
+&\because a+b+c=0 \\
+&\therefore c=-a-b=-(a+b) \\
+&a^3+b^3+c^3 \\
+=&a^3+b^3+(-a-b)^3 \\
+=&a^3+b^3-(a^3+b^3+3a^2b+3ab^2) \\
+=&-3a^2b-3ab^2 \\
+=&-3ab(a+b) \\
+=&3abc
 \end{aligned}$$
 #####  $(\sqrt 2 − \sqrt 8)^2$
 $$=(\sqrt2-\sqrt8)^2=(\sqrt2-2\sqrt2)^2=(-\sqrt2)^2=2$$
