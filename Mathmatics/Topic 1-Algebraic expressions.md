@@ -71,7 +71,7 @@ mindmap-plugin: basic
 ##### $(a+b)^2=(a+b)\times (a+b)=(a+b) \times a+(a+b)\times b=a\times a+b \times a+ a \times b +b \times b=a^2+2ab+b^2$
 
 ##### $(a-b)^2=(a-b) \times (a-b)=(a-b)\times a+(a-b)\times (-b)=a \times a-b \times a+a \times(-b)+(-b) \times (-b)=a^2-2ab+b^2$
-#####$(a+b)(a-b)=(a+b) \times a-(a+b)\times b=a^2+ab-ab-b^2=a^2-b^2$
+##### $(a+b)(a-b)=(a+b) \times a-(a+b)\times b=a^2+ab-ab-b^2=a^2-b^2$
 ##### $(a+b+c)^2=(a+b+c) \times (a+b+c)=(a+b+c) \times a+(a+b+c) \times b+(a+b+c) \times c=a^2+ab+ac+ab+b^2+bc+ac+bc+c^2=a^2+b^2+c^2+2ab+2bc+2ac$
 ##### $(a+b)^3=(a+b)^2\times(a+b)=(a^2+2ab+b^2) \times a+(a^2+2ab+b^2)\times b=a^3+2a^2b+ab^2+a^2b+2ab^2+b^3=a^3+3a^2b+3ab^2+b^3$
 ##### $(a-b)^3=(a-b)^2\times (a-b)=(a^2-2ab+b^2)\times a -(a^2-2ab+b^2) \times b=a^3-2a^2b+ab^2-a^2b+2ab^2-b^3=a^3-3a^2b+3ab^2-b^3$
@@ -114,6 +114,267 @@ mindmap-plugin: basic
 ##### $\frac{a-b}{\sqrt a+\sqrt b}=\frac {(\sqrt a+\sqrt b)(\sqrt a-\sqrt b)}{\sqrt a+\sqrt b}=\sqrt a-\sqrt b$
 ##### $\frac{a-b}{a\sqrt b-b\sqrt a}=\frac{(\sqrt a+\sqrt b)(\sqrt a-\sqrt b)}{\sqrt a \sqrt b (\sqrt a -\sqrt b)}=\frac{\sqrt a+ \sqrt b}{\sqrt a\sqrt b}=\frac{a\sqrt b+b\sqrt a}{ab}$
 #### 1.3 Practice: Expanding and simplifying with identities
+##### $(x+3)^3$
+$$
+(x+3)^3
+=x^3+9x^2+27x+27
+$$
+#####  $(1-5x)^3$
+$$
+(1-5x)^3
+=1-15x+75x^2-125x^3
+$$
+#####  $(2𝑥^2 − 3)^3$
+$$
+(2𝑥^2 − 3)^3
+=8x^6-36x^4+54x^2-27
+$$
+#####  $( −𝑦 − 4)^3$
+$$
+( −𝑦 − 4)^3
+=-y^3-12y^2-48y-64
+$$
+#####  $(−3 + 𝑦)^3$
+$$
+(−3 + 𝑦)^3
+=-27+27y-9y^2+y^3
+$$
+#####  $(𝑥 − 1)(1 + 𝑥)$
+$$
+(𝑥 − 1)(1 + 𝑥)
+=x^2-1
+$$
+#####  $(3𝑥 − 5)(3𝑥 + 5)$
+$$
+(3𝑥 − 5)(3𝑥 + 5)
+=9x^2-25
+$$
+#####  $(4𝑎 − 9𝑏)(4𝑎 + 9𝑏)$
+ $$
+ (4𝑎 − 9𝑏)(4𝑎 + 9𝑏)
+ =16a^2-81b^2
+ $$
+#####  $(𝑥^2 − 4)(𝑥^2 + 4)$
+
+$$
+(𝑥^2 − 4)(𝑥^2 + 4)
+=x^4-16
+$$
+#####  $(5𝑥^3 + \frac{3y}{2} ) (5𝑥^3 − \frac{3y}{2})$
+$$
+(5𝑥^3 + \frac{3y}{2} ) (5𝑥^3 − \frac{3y}{2})
+=25x^6-\frac{9y^2}{4}
+$$
+##### $(11𝑥^2 𝑦 − 12𝑤^3 )(11𝑥^2 𝑦 + 12𝑤^3 )$
+$$
+(11𝑥^2 𝑦 − 12𝑤^3 )(11𝑥^2 𝑦 + 12𝑤^3 )
+=121x^4y^2-144w^6
+$$
+#####  $(𝑥 − 3)(3 + 𝑥)$
+$$
+(𝑥 − 3)(3 + 𝑥)
+=x^2-9
+$$
+#####  $(𝑥 − 𝑦)(−𝑥 − 𝑦)$
+$$
+(𝑥 − 𝑦)(−𝑥 − 𝑦)
+=(y-x)(y+x)
+=y^2-x^2
+$$
+#####  $(−𝑥 + 2)(−𝑥 − 2)$
+$$
+(−𝑥 + 2)(−𝑥 − 2)
+=(x-2)(x+2)
+=x^2-4
+$$
+#####  $(\sqrt3 − \sqrt2)(\sqrt3 + \sqrt2)$
+$$
+(\sqrt3 − \sqrt2)(\sqrt3 + \sqrt2)
+=3-2
+=1
+$$
+#####  $(1 − 2\sqrt3) (1 + 2\sqrt3)$
+$$
+(1 − 2\sqrt3) (1 + 2\sqrt3)
+=1-12
+=-11
+$$
+##### $\frac{1}{(2−\sqrt3)(2+\sqrt3)}$
+$$
+\frac{1}{(2−\sqrt3)(2+\sqrt3)}
+=\frac{1}{4-3} 
+=1
+$$
+##### $\frac{2}{(3+\sqrt5)}$
+$$
+\frac{2}{(3+\sqrt5)}
+=\frac{2}{(3+\sqrt5)} \times \frac{(3-\sqrt5)}{(3-\sqrt5)}
+=\frac{2(3-\sqrt5)}{9-5}
+=\frac{3-\sqrt5}{2}
+$$
+##### $\frac{1}{(1−2\sqrt3)}$
+$$
+\frac{1}{(1−2\sqrt3)}
+=\frac{1}{1−2\sqrt3} \times \frac{1+2\sqrt3}{1+2\sqrt3}
+=\frac{1+2\sqrt3}{1-12}
+=-\frac{1+2\sqrt3}{11}
+$$
+
+#####  $(𝑥 − 1)(𝑥 + 1)(𝑥^2 + 1)(𝑥^4 + 1)$
+$$
+\begin{aligned}
+&(𝑥 − 1)(𝑥 + 1)(𝑥^2 + 1)(𝑥^4 + 1) \\
+=&(x^2-1)(x^2+1)(x^4+1) \\
+=&(x^4-1)(x^4+1) \\
+=&x^8-1
+\end{aligned}
+$$
+#####  $(𝑥 − 2)^2 (𝑥 + 2)^2 (𝑥^2 + 4)^2$
+$$
+\begin{aligned}
+&(𝑥 − 2)^2 (𝑥 + 2)^2 (𝑥^2 + 4)^2 \\
+=&(x^2-4)^2(x^2+4)^2 \\
+=&(x^4-16)^2 \\
+=&x^8-32x^4+256 \\
+\end{aligned}
+$$
+##### Let $𝑃 = (2𝑥 − 1)^2 − 3(𝑥 − 2)(𝑥 + 2) + 4𝑥 − 13.$
+Find the value of $𝐴 = \sqrt𝑃$, when $𝑥 = 2022$.
+$$
+\begin{aligned}
+𝑃 &= (2𝑥 − 1)^2 − 3(𝑥 − 2)(𝑥 + 2) + 4𝑥 − 13 \\
+&=4x^2-4x+1-3x^2+12+4x-13 \\
+&=x^2 \\
+A&=\sqrt P=|x|=2022
+\end{aligned}
+$$
+#####  $(𝑥 + 3)(𝑥^2 − 3𝑥 + 9)$
+$$
+\begin{aligned}
+&(𝑥 + 3)(𝑥^2 − 3𝑥 + 9) \\
+=&x^3-3x^2+9x+3x^2-9x+27 \\
+=&x^3+27
+\end{aligned}
+$$
+#####  $(2𝑦 − 1)(4𝑦^2 + 2𝑦 + 1)$
+$$
+\begin{aligned}
+&(2𝑦 − 1)(4𝑦^2 + 2𝑦 + 1) \\
+=&8y^3+4y^2+2y-4y^2-2y-1 \\
+=&8y^3-1
+\end{aligned}
+$$
+
+#####  $(3𝑥 + 𝑦 + 2)^2$
+$$
+\begin{aligned}
+&(3𝑥 + 𝑦 + 2)^2 \\
+&=9x^2+y^2+4+6xy+12x+4y \\
+&=9x^2+6xy+y^2+12x+4y+4
+\end{aligned}
+$$
+#####  $(𝑥^2 − 3𝑥 − 1)^2$
+$$
+\begin{aligned}
+&(𝑥^2 − 3𝑥 − 1)^2 \\
+=&x^4+9x^2+1-6x^3-2x^2+6x \\
+=&x^4-6x^3+7x^2+6x+1\\
+\\
+&(𝑥^2 − 3𝑥 + 1)^2 \\
+=&x^4+9x^2+1-6x^3+2x^2-6x \\
+=&x^4-6x^3+11x^2-6x+1 \\
+&\text {(The teacher did like this, because copying the question incorrectly)} 
+\end{aligned}
+$$
+#####  $(1 − 𝑥)(3 − 𝑥)$
+$$
+\begin{aligned}
+&(1 − 𝑥)(3 − 𝑥) \\
+=&3-x-3x+x^2 \\
+=&x^2-4x+3
+\end{aligned}
+$$
+#####  $(2𝑥 + 5)(3𝑥 − 1) − (3𝑥 − 2)(2𝑥 + 7)$
+$$
+\begin{aligned}
+&(2𝑥 + 5)(3𝑥 − 1) − (3𝑥 − 2)(2𝑥 + 7) \\
+=&(6x^2+13x-5)-(6x^2+17x-14) \\
+=&-4x+9 \\
+&\text {(The teacher made a mistake)} 
+\end{aligned}
+$$
+##### Let $(𝑎 + 𝑏) = −1$ and $𝑎𝑏 = −2$. Evaluate:
+##### $𝑎^2 + 𝑏^2$
+$$
+\begin{aligned}
+&a^2+b^2 \\
+=&(a+b)^2-2ab \\
+=&(-1)^2-2\times (-2) \\
+=&5
+\end{aligned}
+$$
+##### $𝑎^3 + 𝑏^3$
+$$
+\begin{aligned}
+&a^3+b^3 \\
+=&(a+b)^3-3ab(a+b) \\
+=&(-1)^3-3(-2)(-1) \\
+=&-7
+\end{aligned}
+$$
+#####  $(𝑎 − 𝑏)^2$
+$$
+\begin{aligned}
+&(a-b)^2 \\
+=&(a+b)^2-4ab \\
+=&(-1)^2-4(-2) \\
+=&9
+
+\end{aligned}
+$$
+
+#####  $99^2$
+$$
+\begin{aligned}
+&99^2 \\
+=&(100-1)^2 \\
+=&100^2-2(1)(100)+1^1 \\
+=&10,000-200+1 \\
+=&9801
+\end{aligned}
+$$
+#####  $1002 ⋅ 998$
+$$
+\begin{aligned}
+&1002 \times 998 \\
+=&(1,000+2)(1,000-2) \\
+=&1,000^2-2^2 \\
+=&1,000,000-4 \\
+=&999,996
+\end{aligned}
+$$
+#####  Show that $(𝑎 + 2)^2 − 4(𝑎 + 1) = 𝑎^2$
+$$
+\begin{aligned}
+&LHS=a^2+4a+4-4a-4=a^2\\
+&RHS=a^2 \\
+&LHS=RHS
+\end{aligned}
+$$
+#####  Evaluate $𝐴 = \sqrt{1002^2 − 4004}$
+$$
+\begin{aligned}
+A&=\sqrt{1002^2-4004} \\
+&=\sqrt{(1000+2)^2-2(1000)(2)-2^2} \\
+&=\sqrt{1000^2} \\
+&=1000
+
+\end{aligned}
+$$
+
+
+
+
 
 #### 1.4 More practice on expanding and Identities
 
@@ -147,7 +408,7 @@ mindmap-plugin: basic
 
 #### 1.13 Slides: Factoring -Weeks 3-4
 
-#### Assignmets
+#### Assignments
 
 ##### Assignment 1.5 Factoring
 
@@ -189,6 +450,6 @@ mindmap-plugin: basic
 
 ##### Assignment 1.10 Complex fractions & Delta math-due Oct 17
 
-##### Test 2-Periods 6 & 8-October 21Assignment
+##### Test 2-Periods 6 & 8-October 21
 
 ## Assignments
