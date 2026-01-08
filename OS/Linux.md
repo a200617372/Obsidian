@@ -10,8 +10,11 @@ https://github.com/ChrisTitusTech/linutil
 
 Terminal: alacritty 0.16.1
 Theme: WhiteSur-Dark-solid Icons: WhiteSur-dark 
-Font: Iosevka **Nerd** Font,ter-132b
-(set font ter-132b)
+Font: Iosevka **Nerd** Font,ter-u18b
+sudo pacman -S terminus-font
+/usr/share/fonts/misc
+/etc/conf.d/consolefont
+(set font ter-u18b)
 https://www.nerdfonts.com/cheat-sheet
 
 Programs: Firefox, Fcitx5, nitrogen(wallpapers), vim, obsidian, lxapperance(themes)
