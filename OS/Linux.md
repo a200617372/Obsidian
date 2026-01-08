@@ -18,7 +18,7 @@ sudo pacman -S terminus-font
 ```  
 /usr/share/fonts/misc  
 /etc/conf.d/consolefont  
-(set font ter-u18b)  
+```set font ter-u18b```  
 https://www.nerdfonts.com/cheat-sheet  
 
 Programs: Firefox, Fcitx5, nitrogen(wallpapers), vim, obsidian, lxapperance(themes)  
